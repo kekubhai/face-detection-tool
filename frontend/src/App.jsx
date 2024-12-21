@@ -86,7 +86,7 @@ const MukhPehchaanLanding = () => {
     >
       <header className="p-6 flex justify-between items-center backdrop-blur-sm bg-white bg-opacity-10">
         <animated.h1 style={fadeIn} className="text-4xl font-bold">
-          Mukh Pehchaan
+         Jaan Pehchan
         </animated.h1>
         <nav>
           <ul className="flex space-x-4">
